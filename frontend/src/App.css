@@ -1,0 +1,34 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  margin: 8em 5em;
+  justify-content: space-between;
+}
+
+.form-container {
+  background-color: #eee;
+  text-align: center;
+}
+
+.form {
+  margin: 0.5em 0em !important;
+  width: 60%;
+}
+
+.modal {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.listing-container {
+  margin-top: 3em;
+}
